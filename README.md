@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nathan Martini Duarte, tenho 26 anos e sou de São Bernardo do Campo - SP. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia e já desenvolvi diversos projetos web tanto no front-end quanto no back-end.
+Me chamo Nathan Martini Duarte, sou de São Bernardo do Campo - SP. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia e já desenvolvi diversos projetos web tanto no front-end quanto no back-end.
 
 <p align="left">
     <a href="https://wa.me/5511944641330" target="_blank">
